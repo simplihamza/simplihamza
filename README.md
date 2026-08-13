@@ -2,12 +2,12 @@
 
 I help people solve technical problems for a living, right now, that means supporting NordVPN users through CyberCare, tracking down root causes instead of just closing tickets, and mentoring new teammates along the way. But the itch to work *inside* the systems, not just around them, kept growing. That's what led me here.
 
-I'm currently studying Information Systems & Cybersecurity, and I've set myself a **6-month roadmap** to build the technical foundation for a move into **Sysadmin or Cybersecurity Analyst** roles:
+I'm currently studying Information Systems & Cybersecurity, and I've set myself a roadmap to reach by the end of 2026:
 
-- 🐍 Advanced Python
-- 🐧 Linux usage & administration
-- 🤖 Claude Code workflows
-- ☁️ Google Cloud fundamentals
+- 🐍 Complete the 100 Days of Code Python certification
+- 🐧 Reach intermediate+ level Linux skills including bash scripting
+- ☁️ Earn the AWS Certified Cloud Practitioner
+- ☁️ Earn the AWS Certified Solutions Architect Associate
 
 This GitHub is where that journey lives, starting with Python fundamentals through daily practice (#100DaysOfCode), and gradually shifting toward scripting, automation, and networking/security-focused projects as my skills grow.
 
@@ -34,7 +34,7 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
@@ -42,7 +42,7 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 ### 📈 What I'm working on
 - Strengthening Python through daily hands-on projects (games, automation scripts, OOP practice)
 - Building toward Linux administration and shell scripting
-- Exploring cloud fundamentals (GCP)
+- Exploring cloud fundamentals (AWS)
 - Planning my first networking/security-focused projects as the Python foundation solidifies
 
 ---
