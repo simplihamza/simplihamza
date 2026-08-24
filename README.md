@@ -2,22 +2,27 @@
 
 I help people solve technical problems for a living, right now, that means supporting NordVPN users through CyberCare, tracking down root causes instead of just closing tickets, and mentoring new teammates along the way. But the itch to work *inside* the systems, not just around them, kept growing. That's what led me here.
 
-I'm currently studying Information Systems & Cybersecurity, and I've set myself a roadmap to reach by the end of 2026:
+I'm currently studying Information Systems & Cybersecurity, and building the foundation for a move into **Sysadmin or Cybersecurity Analyst** roles through a structured, multi-course roadmap covering Python, Linux, networking and offensive security fundamentals, and cloud infrastructure, not just one skill in isolation, but the full stack a role like that actually demands.
 
-- 🐍 Complete the 100 Days of Code Python certification
-- 🐧 Reach intermediate+ level Linux skills including bash scripting
-- ☁️ Earn the AWS Certified Cloud Practitioner
-- ☁️ Earn the AWS Certified Solutions Architect Associate
-
-This GitHub is where that journey lives, starting with Python fundamentals through daily practice (#100DaysOfCode), and gradually shifting toward scripting, automation, and networking/security-focused projects as my skills grow.
+This GitHub is where that journey lives, daily Python practice (#100DaysOfCode) forming the foundation, with Linux administration, network/security fundamentals, and AWS knowledge building on top of it as the roadmap progresses.
 
 ---
 
 ### 🎯 Why this repo exists
 
-I've spent the last year+ doing structured troubleshooting for a living, checking environments, testing DNS behavior, digging into logs, and asking "why did this actually happen" instead of settling for a quick fix. I want my code to reflect that same mindset: not just projects that run, but projects that solve real, specific problems, the kind a sysadmin or analyst deals with day to day.
+I've spent the last year+ doing structured troubleshooting for a living, checking environments, testing DNS behavior, digging into logs, and asking "why did this actually happen" instead of settling for a quick fix. I want my code, and the roadmap behind it, to reflect that same mindset: not just projects that run, but a genuine understanding of the systems underneath them, how networks communicate, how Linux actually works under the hood, how cloud infrastructure is built and secured.
 
 Every repo here is a step toward that, logged publicly so I stay accountable and so anyone evaluating my growth can see the actual trajectory, not just the destination.
+
+---
+
+### 🗺️ Roadmap (target: end of 2026)
+
+- 🐍 Complete the 100 Days of Code Python certification (data structures, automation, web/app development, OOP)
+- 🐧 Complete a comprehensive Linux course, covering the CLI, permissions, processes, package management, and advanced Bash scripting
+- 🔐 Complete a Python & Ethical Hacking course, covering network security fundamentals (ARP, DNS, HTTP/HTTPS) and offensive security basics
+- ☁️ Earn the AWS Certified Cloud Practitioner
+- ☁️ Earn the AWS Certified Solutions Architect
 
 ---
 
@@ -34,16 +39,17 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=flat)
 
 ---
 
 ### 📈 What I'm working on
-- Strengthening Python through daily hands-on projects (games, automation scripts, OOP practice)
-- Building toward Linux administration and shell scripting
-- Exploring cloud fundamentals (AWS)
-- Planning my first networking/security-focused projects as the Python foundation solidifies
+- Strengthening Python through daily hands-on projects (100 Days of Code)
+- Building Linux administration skills: CLI fluency, permissions, processes, and Bash scripting
+- Learning network security and offensive security fundamentals through Python & Ethical Hacking
+- Working toward the AWS Certified Cloud Practitioner, with Solutions Architect to follow
 
 ---
 
