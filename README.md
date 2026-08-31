@@ -35,6 +35,12 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 ![DNS](https://img.shields.io/badge/DNS-4A90D9?style=flat)
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat)
 
+**Automation & Data Extraction**
+
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+
 **Building now**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -47,6 +53,7 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ### 📈 What I'm working on
 - Strengthening Python through daily hands-on projects (100 Days of Code)
+- Learning web scraping and browser automation (BeautifulSoup, Selenium), skills that tie directly into OSINT and automated reconnaissance work
 - Building Linux administration skills: CLI fluency, permissions, processes, and Bash scripting
 - Learning network security and offensive security fundamentals through Python & Ethical Hacking
 - Working toward the AWS Certified Cloud Practitioner, with Solutions Architect to follow
