@@ -28,8 +28,6 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ### 🛠️ Current toolbox
 
-### 🛠️ Current toolbox
-
 **Support & Troubleshooting**
 
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
