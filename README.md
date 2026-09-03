@@ -28,6 +28,8 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ### 🛠️ Current toolbox
 
+### 🛠️ Current toolbox
+
 **Support & Troubleshooting**
 
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
@@ -39,6 +41,12 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+**Web & Databases**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Building now**
