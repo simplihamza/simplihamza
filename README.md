@@ -59,7 +59,8 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ### 📈 What I'm working on
 - Strengthening Python through daily hands-on projects (100 Days of Code)
-- Learning web scraping and browser automation (BeautifulSoup, Selenium), skills that tie directly into OSINT and automated reconnaissance work
+- Building web development skills with Flask, SQLAlchemy, and Jinja, including full CRUD applications backed by real database persistence
+- Applying web scraping and browser automation (BeautifulSoup, Selenium), skills that tie directly into OSINT and automated reconnaissance work
 - Building Linux administration skills: CLI fluency, permissions, processes, and Bash scripting
 - Learning network security and offensive security fundamentals through Python & Ethical Hacking
 - Working toward the AWS Certified Cloud Practitioner, with Solutions Architect to follow
