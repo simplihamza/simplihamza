@@ -45,6 +45,7 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Building now**
@@ -59,7 +60,7 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ### 📈 What I'm working on
 - Strengthening Python through daily hands-on projects (100 Days of Code)
-- Building web development skills with Flask, SQLAlchemy, and Jinja, including full CRUD applications backed by real database persistence
+- Building web development skills with Flask, SQLAlchemy, and Jinja, including full CRUD applications and REST APIs with authentication, backed by real database persistence
 - Applying web scraping and browser automation (BeautifulSoup, Selenium), skills that tie directly into OSINT and automated reconnaissance work
 - Building Linux administration skills: CLI fluency, permissions, processes, and Bash scripting
 - Learning network security and offensive security fundamentals through Python & Ethical Hacking
