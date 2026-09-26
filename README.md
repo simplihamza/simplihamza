@@ -4,7 +4,7 @@ I help people solve technical problems for a living, right now, that means suppo
 
 I'm currently studying Information Systems & Cybersecurity, and building the foundation for a move into **Sysadmin or Cybersecurity Analyst** roles through a structured, multi-course roadmap covering Python, Linux, networking and offensive security fundamentals, and cloud infrastructure, not just one skill in isolation, but the full stack a role like that actually demands.
 
-This GitHub is where that journey lives, daily Python practice (#100DaysOfCode) forming the foundation, with Linux administration, network/security fundamentals, and AWS knowledge building on top of it as the roadmap progresses.
+This GitHub is where that journey lives, daily Python practice (#100DaysOfCode) laid the foundation, with Linux, networking/security fundamentals, and AWS knowledge building on top of it as the roadmap progresses.
 
 ---
 
@@ -18,11 +18,10 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ### 🗺️ Roadmap (target: end of 2026)
 
-- 🐍 Complete the 100 Days of Code Python certification (data structures, automation, web/app development, OOP)
-- 🐧 Complete a comprehensive Linux course, covering the CLI, permissions, processes, package management, and advanced Bash scripting
-- 🔐 Complete a Python & Ethical Hacking course, covering network security fundamentals (ARP, DNS, HTTP/HTTPS) and offensive security basics
+- ✅ Completed the 100 Days of Code Python certification
+- 🐧 Completing a comprehensive Linux course, covering the CLI, filesystem, permissions, user/group administration, and text processing, advanced Bash scripting still in progress
+- 🔐 Complete a Python & Ethical Hacking course, covering network security fundamentals (ARP, DNS, HTTP/HTTPS), offensive and defensive security basics
 - ☁️ Earn the AWS Certified Cloud Practitioner
-- ☁️ Earn the AWS Certified Solutions Architect
 
 ---
 
@@ -58,7 +57,12 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-2E8B57?style=flat)
 
----
+**Systems & Linux**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-4A90D9?style=flat)
+
+--- 
 
 ### 📈 What I'm working on
 - Strengthening Python through daily hands-on projects (100 Days of Code)
