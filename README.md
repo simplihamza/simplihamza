@@ -16,7 +16,7 @@ Every repo here is a step toward that, logged publicly so I stay accountable and
 
 ---
 
-### 🗺️ Roadmap (target: end of 2026)
+### 🗺️ Roadmap (target: march of 2027)
 
 - ✅ Completed the 100 Days of Code Python certification
 - 🐧 Completing a comprehensive Linux course, covering the CLI, filesystem, permissions, user/group administration, and text processing, advanced Bash scripting still in progress
